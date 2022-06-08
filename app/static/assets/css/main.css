@@ -1,0 +1,182 @@
+
+/* HEADER */
+header .head{
+    background: coral;
+}
+.header__account--btn:hover{
+    color: coral;
+}
+.header__account--btn .items__count {
+    background: coral;
+}
+.header__search--box .header__search--button{
+    background: coral;
+}
+.style2 .text-white:hover{
+    color: coral;
+}
+.header__menu--items .header__menu--link:hover{
+    color: coral;
+}
+.offcanvas__stikcy--toolbar__list .offcanvas__stikcy--toolbar__icon{
+    background: coral;
+}
+.offcanvas__stikcy--toolbar__label .items__count{
+    background: coral;
+}
+.minicart__conditions--link{
+    color: coral;
+}
+.minicart__button--link{
+    background: coral;
+}
+.offcanvas__menu_li .offcanvas__menu_item:hover{
+    background: coral;
+}
+.offcanvas__account--items__icon{
+    background: coral;
+}
+.predictive__search--button{
+    background: coral;
+}
+/* END OF HEADER */
+
+/* SLIDER */
+.slider__content .primary__btn{
+    background: coral;
+}
+.swiper__nav--btn{
+    background: coral;
+}
+/* END OF SLIDER */
+/* SHIPPING */
+.shipping__style3--icon svg{
+    color: coral;
+}
+.readcrumb__content--menu__items a:hover{
+    color: coral;
+}
+.readcrumb__content--menu__items span:hover{
+    color: coral;
+}
+/* END OF SHIPPING */
+/* NEW PRODUCTS */
+.section__heading--maintitle::before{
+    color: coral;
+}
+.product__tab--primary__btn__list{
+    color: coral;
+}
+.product__items--action__list .product__items--action__btn:hover{
+    background: coral;
+}
+.pagination__list .pagination__item:hover{
+    background: coral;
+    border: coral;
+}
+.pagination__list .pagination__item--current{
+    background: coral;
+    border: coral;
+
+}
+.product__grid--column__buttons .active{
+    color: coral;
+    border: 0.5px solid coral;
+}
+.product__grid--column__buttons--icons:hover{
+    border: 0.5px solid coral;
+    color: coral;
+}
+.product__view--search__form .product__view--search__btn{
+    background: coral;
+}
+.widget__tagcloud--list .widget__tagcloud--link:hover{
+    background: coral;
+    border-color: coral;
+}
+.price__filter--btn{
+    background: coral;
+}
+.pagination__item--arrow:hover{
+    color: coral;
+}
+.product__list--items__content--title .prod-details:hover{
+    color: coral;
+}
+/* END OF NEW PRODUCTS */
+/* NEW COLLECTION */
+.btn__style3{
+    background: coral;
+}
+.new__product--content .new__product--content__title a:hover{
+    color: coral;
+}
+.new__product--thumbnail__link .new__product--thumbnail__img:hover{
+    color: coral;
+}
+/* END OF NEW PRODUCTS */
+/* BANNER  */
+.banner__items--content .banner__items--content__link:hover{
+    color: coral;
+}
+/* END OF BANNER */
+/* FOOTER */
+.newsletter__subscribe--button{
+    background: coral;
+}
+/* END OF FOOTER */
+/* NEWSLETTER */
+.newsletter__popup--close__btn{
+    background: coral;
+}
+.newsletter__popup--subscribe__btn{
+    background: coral;
+}
+/* END OF NEWSLETTER */
+/* SCROLLTOP */
+#scroll__top{
+    background: coral;
+}
+/* END OF SCROLLTOP */
+
+
+.product__media--preview__items--link .product__media--preview__items--img{
+    max-width: 100%;
+    max-height: 40rem;
+    object-fit: cover;
+
+}
+.product__media--nav__items .product__media--nav__items--img{
+    max-width: 100%;
+    max-height: 9rem;
+    object-fit: cover;
+}
+.product__media--view__icon--link{
+    background: coral;
+}
+.variant__buy--now__btn{
+    background: coral;
+}
+.quickview__cart--btn{
+    background: coral;
+}
+.quickview__social--icon{
+    background: coral;
+}
+.variant__size--value:hover{
+    color: coral;
+}
+.product__details--tab .active{
+    color: coral;
+}
+.reviews__summary--caption{
+    color: coral;
+}
+.primary__btn{
+    background: coral;
+}
+.product__items--link .product__items--img{
+    max-width: 100%;
+    max-height: 50rem;
+    object-fit: cover;
+}
